@@ -1,5 +1,8 @@
 # pylint: disable=invalid-name
-"""Code uses chinese remainder thoerum to calculate the christmas tree"""
+"""
+Code uses chinese remainder thoerum to calculate the christmas tree
+Copied from a reddit user: i_have_no_biscuits
+"""
 
 from re import findall
 from statistics import variance as var
